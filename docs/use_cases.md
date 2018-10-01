@@ -178,3 +178,12 @@ robotics and IoT platform.
 Minimizing latency is key for this use case.
 Minimal memory and CPU overhead from Node.js are
 important properties for this use case.
+
+# References
+
+1. The [Node.js Foundation's Application Showcase](https://foundation.nodejs.org/resources/app-showcase)
+plus [analysis by davisjam](https://docs.google.com/spreadsheets/d/1T1AS7V-ixiqqlU6z00N7lI3gqpXtPLYaCabKzPboxhE/edit#gid=0) performed in September 2018.
+2. RisingStack performed a survey of 539 developers who use Node.js in production.
+    - [Survey](https://blog.risingstack.com/why-developers-love-node-js-2018-survey/)
+		- [Archive link](https://web.archive.org/web/20180219130150/https://blog.risingstack.com/why-developers-love-node-js-2018-survey/)
+3. Table 1 from the Micro'15 paper [Microarchitectural Implications of Event-driven Server-side Web Applications](http://www.yuhaozhu.com/pubs/micro15.pdf), by Zhu et al.
