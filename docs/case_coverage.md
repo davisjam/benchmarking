@@ -21,7 +21,7 @@ Single page applications (SPA) with bidirectional communication over WebSockets 
 
 Use case                                   |Benchmark with coverage| Notes
 -------------------------------------------|-----------------------|-------
-Small scripts                              | Require New Ops<BR> Require Cached Ops<BR> Start + stop Time | Needs more attributes tested |
+Scripting and automation                   | Require New Ops<BR> Require Cached Ops<BR> Start + stop Time | Needs more attributes tested |
 Agents and Data Collectors                 |                       |
 Developer tooling: web                     | [Web Tooling Benchmark](https://github.com/v8/web-tooling-benchmark) |
 Developer tooling: Node.js                 |                       |

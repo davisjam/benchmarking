@@ -18,7 +18,7 @@ The following categories have been identifed:
 
 ## Node.js outside of the web stack
 
-* Small scripts
+* Scripting and automation
 * Agents and Data Collectors
 * Developer tooling
     * Web
@@ -89,7 +89,7 @@ SPAs differ from Desktop Applications.
 An SPA relies heavily on network communication.
 A Desktop Application does not.
 
-## Small scripts
+## Scripting and automation
 
 Node.js is often used to script small tasks.
 A key element for this use case is fast start/stop time.
