@@ -31,11 +31,10 @@ https://github.com/nodejs/benchmarking/blob/master/benchmarks/README.md
 ### Semi-monthly Meetings
 
 Meetings of the working group typically occur every third Tuesday.
-A few days before each meeting, an [issue](https://github.com/nodejs/benchmarking/issues) will be created with the date and time of the meeting.
+A few days before each meeting, an [issue](https://github.com/nodejs/benchmarking/issues)
+will be created with the date and time of the meeting.
 The issue will provide schedule logistics as well as
-an agenda,
-links to meeting minutes,
-and
+an agenda, links to meeting minutes, and
 information about how to join as a participant or a viewer.
 
 ## Current Project Team Members
