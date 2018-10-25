@@ -30,7 +30,8 @@ https://github.com/nodejs/benchmarking/blob/master/benchmarks/README.md
 
 ### Semi-monthly Meetings
 
-Meetings of the working group typically occur every third Tuesday.
+Meetings of the working group typically occur every third Tuesday as shown on the
+the node.js project [calendar](https://nodejs.org/calendar).
 A few days before each meeting, an [issue](https://github.com/nodejs/benchmarking/issues)
 will be created with the date and time of the meeting.
 The issue will provide schedule logistics as well as
